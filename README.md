@@ -1,7 +1,7 @@
 Um simples "BOT" para mandar mensagens atraves do Webhook do discord, feito em python3.
 
->python discordpy.py
+> python discordpy.py
 >
->cole link do webhook.
+> cole link do webhook.
 >
->mensagem desejada.
+> mensagem desejada.
